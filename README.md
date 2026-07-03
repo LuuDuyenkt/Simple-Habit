@@ -51,10 +51,27 @@ flutter run
 ## Author
 
 * Student: Lưu Thị Duyên
-* Student ID: 11221695
 * Graduation Thesis:
   “Xây dựng ứng dụng Simple Habit quản lý thói quen người dùng”
 
-## Supervisor
 
-ThS. Trần Thị Mỹ Diệp
+## 📸 Giao diện ứng dụng
+
+| Đăng nhập | Trang chủ |
+|:---------:|:---------:|
+| ![](screenshots/login.jpg) | ![](screenshots/home.jpg) |
+
+| Quản lý mục tiêu | Quản lý công việc |
+|:----------------:|:-----------------:|
+| ![](screenshots/goal.jpg) | ![](screenshots/task.jpg) |
+
+| Hồ sơ cá nhân | Cài đặt |
+|:-------------:|:-------:|
+| ![](screenshots/profile.jpg) | ![](screenshots/setting.jpg) |
+
+| Admin Dashboard | Admin Dashboard |
+|:---------------:|:---------------:|
+| ![](screenshots/admin1.jpg) | ![](screenshots/admin2.jpg) |
+
+---
+
