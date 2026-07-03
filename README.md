@@ -1,72 +1,81 @@
-# Simple Habit – Habit Tracking Application
+#  Simple Habit – Habit Tracking Application
 
 ## Introduction
 
-Simple Habit is a mobile application developed using Flutter to support users in building and maintaining positive daily habits.
+Simple Habit is a Flutter-based mobile application designed to help users build and maintain positive daily habits. The application enables users to create goals, manage daily tasks, track their progress, and receive reminder notifications to stay consistent with their routines.
 
-The application allows users to create goals, manage daily tasks, track progress, and receive reminders to improve personal discipline and productivity.
+---
 
-## Main Features
+## ✨ Features
 
-* User Login & Sign Up
-* Goal Management
-* Daily Task Tracking
-* Reminder Notification
-* Progress Tracking
-* Profile Management
-* Admin Dashboard (Mockup)
+- User Registration & Login
+- Goal Management (Daily / Weekly)
+- Daily Task Management
+- Reminder Notifications
+- Progress Tracking
+- Profile Management
+- Admin Dashboard (Demo)
 
-## Technologies Used
+---
 
-* Flutter
-* Dart
-* Android Studio
-* SharedPreferences
-* flutter_local_notifications
-* image_picker
-* vnlunar
+## 🛠 Technologies
 
-## Project Structure
+- Flutter
+- Dart
+- Android Studio
+- SharedPreferences
+- flutter_local_notifications
+- image_picker
+- vnlunar
 
-```bash
+---
+
+## 📂 Project Structure
+
+```text
 lib/
- ├── screens/
- ├── widgets/
- ├── models/
- ├── services/
- └── main.dart
+├── screens/
+├── widgets/
+├── models/
+├── services/
+└── main.dart
 ```
 
-## Installation & Run
+---
 
-1. Install Flutter SDK
-2. Open project in Android Studio
-3. Run the following commands:
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Android Studio
+
+### Installation
 
 ```bash
 flutter pub get
+```
+
+### Run the application
+
+```bash
 flutter run
 ```
 
-## Author
+---
 
-* Student: Lưu Thị Duyên
-* Graduation Thesis:
-  “Xây dựng ứng dụng Simple Habit quản lý thói quen người dùng”
+## 📸 Application Screenshots
 
-
-## 📸 Giao diện ứng dụng
-
-| Đăng nhập | Trang chủ |
-|:---------:|:---------:|
+| Login | Home |
+|:-----:|:----:|
 | ![](screenshots/login.jpg) | ![](screenshots/home.jpg) |
 
-| Quản lý mục tiêu | Quản lý công việc |
-|:----------------:|:-----------------:|
+| Goal Management | Task Management |
+|:---------------:|:---------------:|
 | ![](screenshots/goal.jpg) | ![](screenshots/task.jpg) |
 
-| Hồ sơ cá nhân | Cài đặt |
-|:-------------:|:-------:|
+| Profile | Settings |
+|:-------:|:--------:|
 | ![](screenshots/profile.jpg) | ![](screenshots/setting.jpg) |
 
 | Admin Dashboard | Admin Dashboard |
@@ -75,3 +84,12 @@ flutter run
 
 ---
 
+##  Demo Video
+
+*Coming soon...*
+
+---
+
+##  Author
+
+**Lưu Thị Duyên**
